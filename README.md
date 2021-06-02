@@ -44,7 +44,7 @@ This web site introduces JavaScript with well-sorted topics, giving a basic over
 ### [TutorialPoint](https://www.tutorialspoint.com/index.htm)
 They provide a variety of media content such as videos, eBooks, and other learning materials making JavaScript much simpler.
 
-###[Javatpoint](https://www.javatpoint.com/javascript-tutorial)
+### [Javatpoint](https://www.javatpoint.com/javascript-tutorial)
 This is my favourite website. They will provide to many practical example(daily life what we have seen) to understand the concept. You will learn too many things fastly from this website.
 
 ##Some books I will provide you-
